@@ -1,0 +1,5 @@
+com\adh_project\chat\message\ChatMessage.class
+com\adh_project\chat\room\Room.class
+com\adh_project\chat\message\MessageType.class
+com\adh_project\web\filter\NocacheFilter.class
+com\adh_project\web\socket\ChatEndpoint.class
